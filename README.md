@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I’m currently working to build my android application about AI
+- I’m currently working to build my android application about AI 😄
 
 <!--
 **massinissa92/massinissa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
